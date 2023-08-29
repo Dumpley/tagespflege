@@ -16,14 +16,11 @@ export default {
 
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  color: #2c3e50;
+body {
+  margin: 0;
+  background-color: white;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
 }
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
 </style>
